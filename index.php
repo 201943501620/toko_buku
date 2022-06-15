@@ -5,11 +5,11 @@
 		}else if($_GET['pesan'] == "logout"){
 			echo "Anda telah berhasil logout";
 		}else if($_GET['pesan'] == "belum_login"){
-			echo "Anda harus login untuk mengakses halaman admin";
+			echo "Anda harus login untuk mengakses halaman admin ";
 		}
 	}
 ?>
-
+ 
 <!doctype html>
 <html lang="en">
   <head>
